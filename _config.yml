@@ -52,7 +52,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Plotting and Programming in Python, November 18, 2021"
+title: "Plotting and Programming in Python"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
@@ -101,8 +101,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/unt-carpentries/2021-11-18-unt-online"
-workshop_site: "https://unt-carpentries.github.io/2021-11-18-unt-online"
+workshop_repo: "https://github.com/unt-carpentries/2022-03-17-unt-online"
+workshop_site: "https://unt-carpentries.github.io/2022-03-17-unt-online"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
